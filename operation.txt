@@ -1,0 +1,3 @@
+6 replace N
+5 replace B
+H25 delete H
